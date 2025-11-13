@@ -22,7 +22,8 @@ I have a wide range of skills that include:
 ---
 
 ### 👁️ Visitor Count
-![Visitor Count](https://hits.sh/GauravTayadeDevloper.svg)
+![Visitor Count](https://hits.sh/GauravTayadeDevloper.svg?style=for-the-badge&label=VISITORS)
+
 
 
 ---
