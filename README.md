@@ -22,8 +22,9 @@ I have a wide range of skills that include:
 ---
 
 ### 👁️ Visitor Count
-![Profile Views](https://komarev.com/ghpvc/?username=GauravTayadeDevloper&label=PROFILE+VIEWS&color=blue)
-
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=GauravTayadeDevloper&label=PROFILE+VIEWS&color=blue)
+-->
+![Visitors](https://hits.sh/GauravTayadeDevloper.svg?style=plastic&label=VISITORS&color=ff69b4)
 
 
 ---
