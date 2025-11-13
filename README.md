@@ -22,7 +22,8 @@ I have a wide range of skills that include:
 ---
 
 ### 👁️ Visitor Count
-![Visitor Count](https://count.getloli.com/get/@GauravTayadeDevloper?theme=moebooru)
+![Visitor Count](https://hits.sh/GauravTayadeDevloper.svg)
+
 
 ---
 
