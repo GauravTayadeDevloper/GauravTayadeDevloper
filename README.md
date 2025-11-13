@@ -22,21 +22,18 @@ I have a wide range of skills that include:
 ---
 
 ### 👁️ Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/GauravTayadeDevloper/count.svg)
+![Visitor Count](https://count.getloli.com/get/@GauravTayadeDevloper?theme=moebooru)
 
 ---
 
 ### 🏆 GitHub Profile Trophy
-<div>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=GauravTayadeDevloper&column=7"/>
-  </a>
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=GauravTayadeDevloper&theme=dracula&row=1&column=7" />
 
 ---
 
 ### 🔥 GitHub Activity Graph
-![](https://activity-graph.herokuapp.com/graph?username=GauravTayadeDevloper&theme=react-dark&area=true)
+![Gaurav's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GauravTayadeDevloper&theme=react-dark&area=true)
+
 
 <!--
 **GauravTayadeDevloper/GauravTayadeDevloper** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
