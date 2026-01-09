@@ -1,9 +1,5 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-Ronessi107-red)](https://www.youtube.com/c/RONESSI107GT28/channels)
-[![LinkedIn Badge](https://img.shields.io/badge/-Gaurav-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-tayade-354404241/)
-[![Website Badge](https://img.shields.io/badge/Website-Gaurav-green)](#)
-[![StackOverflow Badge](https://img.shields.io/badge/StackOverflow-Gaurav-yellow)](https://stackoverflow.com/users/19672879/gaurav-tayade)
 
 ---
 
